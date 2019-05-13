@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Apna Time Test</string>
+    <string name="language_text">Language \n भाषा</string>
+
+    <string name="btn_english_text">English</string>
+    <string name="btn_hindi_text">हिन्दी</string>
+    <string name="title_activity_login">Sign Up / Login</string>
+
+
+    <!-- Strings related to login -->
+    <string name="phone_hint">Enter Phone Number (Without +91)</string>
+    <string name="btn_login">Login / Sign-Up</string>
+    <string name="error_number">Please Enter Valid 10 Digit Phone Number</string>
+    <string name="otp_hint">Enter OTP</string>
+    <string name="otp_error">Incorrect OTP</string>
+    <string name="btn_otp_verify">Verify</string>
+
+
+    <!-- Strings related to cv -->
+    <string name="btn_cv_photo">Click To Take Photo</string>
+    <string name="tv_cv_name">Full Name</string>
+    <string name="tv_cv_address">Address</string>
+    <string name="tv_cv_experience">Number Of Years Of Experience</string>
+    <string name="tv_cv_dob">Date Of Birth</string>
+    <string name="btn_cv_generate">Generate CV</string>
+    <string name="btn_cv_image_share">Share CV Photo</string>
+    <string name="btn_cv_link_share">Share CV Link</string>
+    <string name="tv_cv_under_18">You Are Under 18</string>
+    <string name="btn_cv_gen_share_img">Share CV Image</string>
+    <string name="btn_cv_gen_share_link">Share Link</string>
+    <string name="below_18_toast">You Are Below 18 And Cannot Proceed</string>
+    <string name="cv_not_generated">Please Fill All Details And Click Generate CV</string>
+    <string name="tv_cv_number">Mobile Number</string>
+
+    <string name="name_error">Please Fill Your Name</string>
+    <string name="address_error">Please Fill Your Address</string>
+    <string name="experience_error">Please Fill Your Experience</string>
+    <string name="dob_error">Please Fill Your Date Of Birth</string>
+
+    <string name="progress_data_fetching_title">Fetching Data</string>
+    <string name="progress_data_fetching_body">Please Wait While We Fetch Your Data</string>
+
+    <string name="progress_data_uploading_title">Uploading Data</string>
+    <string name="progress_data_uploading_body">Please Wait While We Upload Your Data</string>
+
+
+    <string name="camera_error">Unable to capture image</string>
+    <string name="crop_error">No App Found To Crop</string>
+    <string name="cv_profile_pic_saved">Profile Photo Saved</string>
+
+
+    <string name="share_subject">Find This CV Generating App</string>
+    <string name="share_body">You can now generate and share CV using this app : </string>
+    <string name="share_cv_body">Please Check My CV</string>
+    <string name="share_link">Share Link</string>
+    <string name="share_cv_photo">Share CV</string>
+    <string name="share_error">No App Available To Share</string>
+    <string name="cv_generated">CV Generated</string>
+    <string name="profile_pic_uploaded">Profile Photo Uploaded</string>
+
+
+
+
+</resources>

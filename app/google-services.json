@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572046419195",
+    "firebase_url": "https://apna-time-test.firebaseio.com",
+    "project_id": "apna-time-test",
+    "storage_bucket": "apna-time-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572046419195:android:cb3f020265f2c06e",
+        "android_client_info": {
+          "package_name": "com.example.apnatimetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572046419195-k6dbaavcgldmrf0vv1e035c687lfbr32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apnatimetest",
+            "certificate_hash": "9744eb75b85bb83294f62c48c2fe410aff083fb1"
+          }
+        },
+        {
+          "client_id": "572046419195-sticmd480dt5pdptnibna9q32f10uskp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MXhifxaiI8k8TX9f473oJn7CP1uePEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572046419195-sticmd480dt5pdptnibna9q32f10uskp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

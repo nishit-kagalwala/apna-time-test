@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Apna Time Test</string>
+    <string name="language_text">Language \n भाषा</string>
+
+    <string name="btn_english_text">English</string>
+    <string name="btn_hindi_text">हिन्दी</string>
+    <string name="title_activity_login">साइन अप / लॉगिन</string>
+
+
+    <!-- Strings related to login -->
+    <string name="phone_hint">फोन नंबर डालिए (बिना +91 के)</string>
+    <string name="btn_login">लोग इन</string>
+    <string name="error_number">10 डिजिट का नंबर डालिए</string>
+    <string name="otp_hint">OTP डालिए</string>
+    <string name="btn_otp_verify">वेरिफाइ</string>
+    <string name="otp_error">OTP गलत है</string>
+
+
+    <!-- Strings related to cv -->
+    <string name="btn_cv_photo">फोटो लेने के लिए दबाए</string>
+    <string name="tv_cv_name">पूरा नाम</string>
+    <string name="tv_cv_address">घर का पता</string>
+    <string name="tv_cv_experience">कितने साल का एक्सपीरियेन्स है</string>
+    <string name="tv_cv_dob">जन्म तारीख</string>
+    <string name="btn_cv_generate">CV बनाए</string>
+    <string name="btn_cv_image_share">CV शरे करे</string>
+    <string name="btn_cv_link_share">लिंक शेर करे</string>
+    <string name="tv_cv_under_18">आप 18 साल से नीचे हो</string>
+    <string name="btn_cv_gen_share_img">CV फोटो शेर करे</string>
+    <string name="btn_cv_gen_share_link">लिंक शेर करे</string>
+
+
+    <string name="camera_error">कॅमरा मे गड़बड़ है</string>
+    <string name="crop_error">फोटो एडिटर इनस्टॉल करे</string>
+    <string name="cv_profile_pic_saved">प्रोफाइल फोटो हो गयी</string>
+
+
+    <string name="share_subject">CV बनाने के लिए App</string>
+    <string name="share_body">आप CV बनाकर शेर कर सकते है : </string>
+    <string name="share_cv_body">मेरा CV देख लीजिए</string>
+    <string name="share_link">लिंक शेर करे</string>
+    <string name="share_cv_photo">CV फोटो शेर करे</string>
+    <string name="share_error">शेर करने के लिए कोई App नही है</string>
+    <string name="cv_generated">CV बन गया</string>
+
+
+    <string name="below_18_toast">आप 18 साल से नीचे हो</string>
+    <string name="cv_not_generated">सारी डीटेल्स भरे </string>
+    <string name="tv_cv_number">मोबाइल नंबर</string>
+
+    <string name="name_error">आपका नाम भारिए</string>
+    <string name="address_error">आपका पता भारिए</string>
+    <string name="experience_error">आपका तजुर्बा भारिए</string>
+    <string name="dob_error">आपका जन्मदिवस भारिए</string>
+
+    <string name="progress_data_fetching_title">डेटा आ रहा है</string>
+    <string name="progress_data_fetching_body">डेटा आ रहा है, कुछ पल रुकिये</string>
+
+    <string name="progress_data_uploading_title">डेटा भेज रहे है</string>
+    <string name="progress_data_uploading_body">डेटा भेज रहे है, कुछ पल रुकिये</string>
+    <string name="profile_pic_uploaded">प्रोफाइल फोटो अपलोडेड</string>
+
+</resources>
